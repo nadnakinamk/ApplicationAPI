@@ -1,0 +1,15 @@
+F:\2024\Application\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+F:\2024\Application\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+F:\2024\Application\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+F:\2024\Application\Infrastructure\bin\Debug\net6.0\Domain.dll
+F:\2024\Application\Infrastructure\bin\Debug\net6.0\Domain.pdb
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+F:\2024\Application\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

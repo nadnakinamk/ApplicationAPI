@@ -1,0 +1,11 @@
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\MemorialAPI.exe
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\MemorialAPI.dll
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\MemorialAPI.deps.json
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\MemorialAPI.runtimeconfig.json
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\MemorialAPI.pdb
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\2024\Application\MemorialAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

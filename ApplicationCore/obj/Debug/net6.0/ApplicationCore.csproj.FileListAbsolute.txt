@@ -1,0 +1,17 @@
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\Domain.dll
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\Domain.pdb
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CopyComplete
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+F:\2024\Application\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\Infrastructure.dll
+F:\2024\Application\ApplicationCore\bin\Debug\net6.0\Infrastructure.pdb
