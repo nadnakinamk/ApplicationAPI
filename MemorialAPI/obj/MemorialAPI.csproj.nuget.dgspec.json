@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\2024\\Application\\MemorialAPI\\MemorialAPI.csproj": {}
+    "D:\\PROJECTS\\.NET\\ApplicationAPI\\MemorialAPI\\MemorialAPI.csproj": {}
   },
   "projects": {
-    "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "F:\\2024\\Application\\ApplicationCore\\obj\\",
+        "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\nadna\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nadna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\2024\\Application\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\2024\\Application\\Domain\\Domain.csproj"
+              "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj"
               },
-              "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj"
+              "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -62,15 +62,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\2024\\Application\\Domain\\Domain.csproj": {
+    "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj": {
       "restore": {
-        "projectUniqueName": "F:\\2024\\Application\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\2024\\Application\\Domain\\Domain.csproj",
+        "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -81,17 +81,17 @@
         "net472": {}
       }
     },
-    "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "F:\\2024\\Application\\Infrastructure\\obj\\",
+        "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\nadna\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nadna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\2024\\Application\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\2024\\Application\\Domain\\Domain.csproj"
+              "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\2024\\Application\\MemorialAPI\\MemorialAPI.csproj": {
+    "D:\\PROJECTS\\.NET\\ApplicationAPI\\MemorialAPI\\MemorialAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\2024\\Application\\MemorialAPI\\MemorialAPI.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\.NET\\ApplicationAPI\\MemorialAPI\\MemorialAPI.csproj",
         "projectName": "MemorialAPI",
-        "projectPath": "F:\\2024\\Application\\MemorialAPI\\MemorialAPI.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "F:\\2024\\Application\\MemorialAPI\\obj\\",
+        "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\MemorialAPI\\MemorialAPI.csproj",
+        "packagesPath": "C:\\Users\\nadna\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\MemorialAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nadna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,11 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj"
+              "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -217,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

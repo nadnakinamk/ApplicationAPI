@@ -4,3 +4,9 @@ F:\2024\Application\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
 F:\2024\Application\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 F:\2024\Application\Domain\obj\Debug\Domain.dll
 F:\2024\Application\Domain\obj\Debug\Domain.pdb
+D:\PROJECTS\.NET\ApplicationAPI\Domain\bin\Debug\Domain.dll
+D:\PROJECTS\.NET\ApplicationAPI\Domain\bin\Debug\Domain.pdb
+D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.dll
+D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.pdb

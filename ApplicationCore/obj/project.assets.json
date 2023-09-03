@@ -685,19 +685,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\nadna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "F:\\2024\\Application\\ApplicationCore\\ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "F:\\2024\\Application\\ApplicationCore\\obj\\",
+      "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\ApplicationCore.csproj",
+      "packagesPath": "C:\\Users\\nadna\\.nuget\\packages\\",
+      "outputPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nadna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -711,11 +711,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\2024\\Application\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\2024\\Application\\Domain\\Domain.csproj"
+            "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Domain\\Domain.csproj"
             },
-            "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "F:\\2024\\Application\\Infrastructure\\Infrastructure.csproj"
+            "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\PROJECTS\\.NET\\ApplicationAPI\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -745,7 +745,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

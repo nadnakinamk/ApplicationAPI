@@ -16,7 +16,7 @@ namespace MemorialAPI.Controllers
         }
 
         [HttpPost]
-        [Route("Users/CreateUser")]
+        [Route("CreateUser")]
         public async Task<IActionResult> CreateUser(Users user)
         {
             var userResponse = _usersService.CreateUser(user);
@@ -24,7 +24,7 @@ namespace MemorialAPI.Controllers
         }
 
         [HttpPost]
-        [Route("Login/CheckValidUser")]
+        [Route("CheckValidUser")]
         public async Task<IActionResult> CheckValidUser(Login loginRequest)
         {
             return this.BadRequest();
