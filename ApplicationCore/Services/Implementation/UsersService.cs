@@ -1,4 +1,6 @@
-﻿using ApplicationCore.Services.Interface;
+﻿using ApplicationCore.Extensions;
+using ApplicationCore.Services.Interface;
+using Domain.Constant;
 using Domain.Entities;
 using Infrastructure.Repositories.Interface;
 using Infrastructure.Repository;
@@ -12,18 +14,23 @@ namespace ApplicationCore.Services.Implementation
 {
     public class UsersService:IUsersService
     {
+
         private readonly IUsersRepository _usersRepository;
 
         public UsersService(IUsersRepository usersRepository)
         {
             _usersRepository = usersRepository;
         }
-        public string CreateUser(Users user)
+        public ResponseResult<Users> CreateUser(Users user)
         {
-            return _usersRepository.CreateUser(user);
+            user.Password= EncryptionDecryption.EncryptString(CommonData.cryptoKey, user.Password);
+            var response= _usersRepository.CreateUser(user);
+            response.Data.Password= EncryptionDecryption.DecryptString(CommonData.cryptoKey, response.Data.Password);
+            return response;
         }
-        public string CheckValidUser(Login login)
+        public ResponseResult<Users> CheckValidUser(Login login)
         {
+            login.Password = EncryptionDecryption.EncryptString(CommonData.cryptoKey, login.Password);
             return _usersRepository.CheckValidUser(login);
         }
     }

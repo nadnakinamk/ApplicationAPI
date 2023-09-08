@@ -9,7 +9,7 @@ namespace Infrastructure.Repositories.Interface
 {
     public interface IUsersRepository
     {
-        string CheckValidUser(Login login);
-        string CreateUser(Users user);
+        ResponseResult<Users> CreateUser(Users user);
+        ResponseResult<Users> CheckValidUser(Login login);
     }
 }

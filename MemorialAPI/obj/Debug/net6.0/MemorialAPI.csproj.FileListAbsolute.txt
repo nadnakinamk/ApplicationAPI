@@ -87,3 +87,8 @@ D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\obj\Debug\net6.0\refint\MemorialAPI.
 D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\obj\Debug\net6.0\MemorialAPI.pdb
 D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\obj\Debug\net6.0\MemorialAPI.genruntimeconfig.cache
 D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\obj\Debug\net6.0\ref\MemorialAPI.dll
+D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECTS\.NET\ApplicationAPI\MemorialAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

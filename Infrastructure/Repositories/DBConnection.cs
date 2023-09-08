@@ -7,6 +7,8 @@ using System.Configuration;
 using System.Data.SqlClient;
 using System.Data;
 using Microsoft.Extensions.Configuration;
+using Domain.Exceptions;
+using Domain.Constant;
 namespace Infrastructure
 {
     public class DBConnection
@@ -17,23 +19,38 @@ namespace Infrastructure
         public DBConnection(IConfiguration config)
         {
            _config = config;
-            ConnectionString = _config.GetConnectionString("ApplicationConnection");
+            ConnectionString = _config.GetConnectionString("ApplicationConnection") ?? throw new ArgumentNullException(nameof(config)); ;
             con = new SqlConnection(ConnectionString);
         }    
        
         public void connect()
         {
-            if (con.State == ConnectionState.Closed)
+            try
             {
-                con.Open();
+                if (con.State == ConnectionState.Closed)
+                {
+                    con.Open();
+                }
             }
+            catch (Exception ex) when (ex.Message!=null)
+            {
+                throw new DatabaseException(ex.Message);
+            }
+            
         }
         public void disconnect()
         {
-            if (con.State == ConnectionState.Open)
+            try
             {
-                con.Close();
+                if (con.State == ConnectionState.Open)
+                {
+                    con.Close();
+                }
             }
+            catch (Exception ex) when (ex.Message != null)
+            {
+                throw new DatabaseException("Database connection problems");
+            }           
         }
     }
 }

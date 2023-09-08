@@ -6,7 +6,7 @@ namespace ApplicationCore.Services.Interface
 {
    public interface IUsersService
     {
-        string CheckValidUser(Login login);
-        string CreateUser(Users user);
+        ResponseResult<Users> CreateUser(Users user);
+        ResponseResult<Users> CheckValidUser(Login login);
     }
 }

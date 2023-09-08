@@ -1,6 +1,3 @@
-using System;
-using Xunit;
-
 namespace MemorialAPITest
 {
     public class UnitTest1

@@ -10,3 +10,5 @@ D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.csproj.AssemblyReference
 D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.dll
 D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.pdb
+D:\PROJECTS\.NET\ApplicationAPI\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+D:\PROJECTS\.NET\ApplicationAPI\Domain\obj\Debug\Domain.csproj.CopyComplete
